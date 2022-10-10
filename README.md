@@ -1,6 +1,6 @@
 # dgl_demo
 dgl test demo
-We're running a link prediction task.  
+We're running a link prediction task. Which refer to the website https://blog.csdn.net/vincent_duan/article/details/121548288
 When using the cpu, the result of five runs is deterministic.  
 device = 'cpu'
 
